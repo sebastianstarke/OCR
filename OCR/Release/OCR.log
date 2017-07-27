@@ -1,0 +1,69 @@
+﻿Build started 08.10.2015 17:31:40.
+     1>Project "E:\Studium\Projects\OCR\OCR\OCR.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IE:\Development\Frameworks\opencv\build\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(97): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>main.cpp(140): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(151): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(159): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(163): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(209): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(214): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(221): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(224): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(241): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(303): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>main.cpp(304): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>main.cpp(346): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(349): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(373): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>main.cpp(382): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(412): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(420): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(625): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(679): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(755): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(916): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(962): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1012): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1024): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1258): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1266): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1268): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>main.cpp(1271): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1284): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1288): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>main.cpp(1292): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>main.cpp(1311): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>main.cpp(1332): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>main.cpp(1333): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1337): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>main.cpp(1345): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>main.cpp(1346): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1350): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>main.cpp(1359): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1376): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1392): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1397): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1404): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1407): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1424): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1513): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1516): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1548): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1550): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1556): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1561): warning C4018: '<': signed/unsigned mismatch
+     1>main.cpp(1600): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Studium\Projects\OCR\Release\OCR.exe" /NOLOGO /LIBPATH:E:\Development\Frameworks\opencv\build\x86\vc12\lib opencv_ts300.lib opencv_ts300d.lib opencv_world300.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Studium\Projects\OCR\Release\OCR.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Studium\Projects\OCR\Release\OCR.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Generating code
+         All 957 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         OCR.vcxproj -> E:\Studium\Projects\OCR\Release\OCR.exe
+     1>Done Building Project "E:\Studium\Projects\OCR\OCR\OCR.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.73

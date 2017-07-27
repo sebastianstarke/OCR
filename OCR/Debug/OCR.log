@@ -1,0 +1,54 @@
+﻿Der Buildvorgang wurde am 26.01.2015 01:09:39 gestartet.
+     1>Projekt "C:\Users\Sebastian\Documents\Visual Studio 2012\Projects\OCR\OCR\OCR.vcxproj" auf Knoten "2", Rebuild Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Users\Sebastian\Desktop\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(102): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(114): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(122): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(126): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(209): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(212): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(236): warning C4244: 'Argument': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(245): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(275): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(283): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(486): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(540): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(616): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(777): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(823): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(873): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(885): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1109): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1117): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1119): warning C4244: '=': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1122): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1135): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1139): warning C4244: 'Argument': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1143): warning C4244: 'Argument': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1159): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1164): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1171): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1174): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1191): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1253): warning C4244: 'Argument': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1254): warning C4244: 'Argument': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1273): warning C4244: 'Initialisierung': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1294): warning C4244: 'Initialisierung': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1295): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1299): warning C4244: '=': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1307): warning C4244: 'Initialisierung': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1308): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1312): warning C4244: '=': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1321): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1328): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\sebastian\documents\visual studio 2012\projects\ocr\ocr\main.cpp(1334): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sebastian\Documents\Visual Studio 2012\Projects\OCR\Debug\OCR.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\Sebastian\Desktop\opencv\build\x86\vc11\lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sebastian\Documents\Visual Studio 2012\Projects\OCR\Debug\OCR.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sebastian\Documents\Visual Studio 2012\Projects\OCR\Debug\OCR.lib" /MACHINE:X86 Debug\main.obj
+         OCR.vcxproj -> C:\Users\Sebastian\Documents\Visual Studio 2012\Projects\OCR\Debug\OCR.exe
+     1>Die Erstellung des Projekts "C:\Users\Sebastian\Documents\Visual Studio 2012\Projects\OCR\OCR\OCR.vcxproj" ist abgeschlossen, Rebuild Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:01.49
