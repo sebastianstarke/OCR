@@ -14,7 +14,8 @@ The pictures below illustrate the segmentation and detection process, followed b
 <img src ="https://github.com/sebastianstarke/OCR/blob/master/Steps/Detection.jpg" width="100%">
 <img src ="https://github.com/sebastianstarke/OCR/blob/master/Steps/IP.jpg" width="100%">
 
-====================DEMO====================
+Demo
+------------
 -Start WINDOWS (or anything that can execute .exe) :-)
 -Open cmd and navigate to the OCR.exe folder
 -Type: OCR.exe <imagepath1> <imagepath2> <k> <sigma> <output>
