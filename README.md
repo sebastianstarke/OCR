@@ -1,7 +1,7 @@
 Optical Character Recognition in Chinese Manuscripts
 ======================================================
-<img src ="https://github.com/sebastianstarke/OCR/tree/master/images/Data/back/4.jpg" width="45%">
-<img src ="https://github.com/sebastianstarke/OCR/tree/master/images/Data/front/1.jpg" width="45%">
+<img src ="https://github.com/sebastianstarke/OCR/blob/master/Data/back/4.jpg" width="45%">
+<img src ="https://github.com/sebastianstarke/OCR/blob/master/Data/front/1.jpg" width="45%">
 
 Description
 ------------
