@@ -12,7 +12,7 @@ The pictures below illustrate the segmentation and detection process, followed b
 <img src ="https://github.com/sebastianstarke/OCR/blob/master/Steps/kNN-Noise-Filter.jpg" width="100%">
 <img src ="https://github.com/sebastianstarke/OCR/blob/master/Steps/Intensity-Projection.jpg" width="100%">
 <img src ="https://github.com/sebastianstarke/OCR/blob/master/Steps/Detection.jpg" width="100%">
-<img src ="https://github.com/sebastianstarke/OCR/blob/master/Steps/IP.jpg" width="100%">
+<img src ="https://github.com/sebastianstarke/OCR/blob/master/Experiments/IP.jpg" width="100%">
 
 Demo
 ------------
