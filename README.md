@@ -17,7 +17,7 @@ The pictures below illustrate the segmentation and detection process, followed b
 Demo
 ------------
 
--Start WINDOWS (or anything that can execute .exe) :-)
+-Start WINDOWS (or anything that can execute .exe)
 
 -Open cmd and navigate to the OCR.exe folder
 
