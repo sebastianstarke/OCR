@@ -17,20 +17,20 @@ The pictures below illustrate the segmentation and detection process, followed b
 Demo
 ------------
 
--Start WINDOWS (or anything that can execute .exe)
+#1 - Start WINDOWS (or anything that can execute .exe)
 
--Open cmd and navigate to the OCR.exe folder
+#2 - Open cmd and navigate to the OCR.exe folder
 
--Type: OCR.exe <imagepath1> <imagepath2> <k> <sigma> <output>
+#3 - Type: OCR.exe <imagepath1> <imagepath2> <k> <sigma> <output>
 
-imagepath1 & imagepath2 -> paths to your .jpg manuscript
+#4 - imagepath1 & imagepath2 -> paths to your .jpg manuscript
 
-k -> parameter for kNN classification
+#5 - k -> parameter for kNN classification
 
-sigma -> parameter for kNN decision-confidence threshold
+#6 - sigma -> parameter for kNN decision-confidence threshold
 
-output -> 0 or 1
+#7 - output -> 0 or 1
 	  0 if you only want to see the results
           1 if you also want to see the processing steps and probability distributions
 
-Example: OCR.exe front/3.jpg back/3.jpg 50 0.25 1
+#8 - Example: OCR.exe front/3.jpg back/3.jpg 50 0.25 1
